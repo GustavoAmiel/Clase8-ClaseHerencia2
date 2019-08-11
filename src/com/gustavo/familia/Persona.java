@@ -1,4 +1,4 @@
-package mx.com.develop.familia;
+package com.gustavo.familia;
 
 public class Persona {
 	private String curp;

@@ -1,7 +1,7 @@
-package mx.com.develop.test;
+package com.gustavo.test;
 
-import mx.com.develop.familia.Hija;
-import mx.com.develop.familia.Padre;
+import com.gustavo.familia.Hija;
+import com.gustavo.familia.Padre;
 
 public class Test {
 
